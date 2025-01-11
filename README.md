@@ -4,21 +4,20 @@ Text Data Analysis of kenya gazette
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:------:|:------:|:-------|:-------|:-------|:------:|:------:|:-------|:-------|:-------|
-| [1890](./pdf_file/1890.pdf) | [1891](./pdf_file/1891.pdf) | [1892](./pdf_file/1892.pdf) | [1893](./pdf_file/1893.pdf) | [1894](./pdf_file/1894.pdf) | [1895](./pdf_file/1895.pdf) | [1896](./pdf_file/1896.pdf) | [1897](./pdf_file/1897.pdf) | [1898](./pdf_file/1898.pdf) | [1899](./pdf_file/1899.pdf) |
-| [1900](./pdf_file/1900.pdf) | [1901](./pdf_file/1901.pdf) | [1902](./pdf_file/1902.pdf) | [1903](./pdf_file/1903.pdf) | [1904](./pdf_file/1904.pdf) | [1905](./pdf_file/1905.pdf) | [1906](./pdf_file/1906.pdf) | [1907](./pdf_file/1907.pdf) | [1908](./pdf_file/1908.pdf) | [1909](./pdf_file/1909.pdf) |
-| [1910](./pdf_file/1910.pdf) | [1911](./pdf_file/1911.pdf) | [1912](./pdf_file/1912.pdf) | [1913](./pdf_file/1913.pdf) | [1914](./pdf_file/1914.pdf) | [1915](./pdf_file/1915.pdf) | [1916](./pdf_file/1916.pdf) | [1917](./pdf_file/1917.pdf) | [1918](./pdf_file/1918.pdf) | [1919](./pdf_file/1919.pdf) |
-| [1920](./pdf_file/1920.pdf) | [1921](./pdf_file/1921.pdf) | [1922](./pdf_file/1922.pdf) | [1923](./pdf_file/1923.pdf) | [1924](./pdf_file/1924.pdf) | [1925](./pdf_file/1925.pdf) | [1926](./pdf_file/1926.pdf) | [1927](./pdf_file/1927.pdf) | [1928](./pdf_file/1928.pdf) | [1929](./pdf_file/1929.pdf) |
-| [1930](./pdf_file/1930.pdf) | [1931](./pdf_file/1931.pdf) | [1932](./pdf_file/1932.pdf) | [1933](./pdf_file/1933.pdf) | [1934](./pdf_file/1934.pdf) | [1935](./pdf_file/1935.pdf) | [1936](./pdf_file/1936.pdf) | [1937](./pdf_file/1937.pdf) | [1938](./pdf_file/1938.pdf) | [1939](./pdf_file/1939.pdf) |
-| [1940](./pdf_file/1940.pdf) | [1941](./pdf_file/1941.pdf) | [1942](./pdf_file/1942.pdf) | [1943](./pdf_file/1943.pdf) | [1944](./pdf_file/1944.pdf) | [1945](./pdf_file/1945.pdf) | [1946](./pdf_file/1946.pdf) | [1947](./pdf_file/1947.pdf) | [1948](./pdf_file/1948.pdf) | [1949](./pdf_file/1949.pdf) |
-| [1950](./pdf_file/1950.pdf) | [1951](./pdf_file/1951.pdf) | [1952](./pdf_file/1952.pdf) | [1953](./pdf_file/1953.pdf) | [1954](./pdf_file/1954.pdf) | [1955](./pdf_file/1955.pdf) | [1956](./pdf_file/1956.pdf) | [1957](./pdf_file/1957.pdf) | [1958](./pdf_file/1958.pdf) | [1959](./pdf_file/1959.pdf) |
-| [1960](./pdf_file/1960.pdf) | [1961](./pdf_file/1961.pdf) | [1962](./pdf_file/1962.pdf) | [1963](./pdf_file/1963.pdf) | [1964](./pdf_file/1964.pdf) | [1965](./pdf_file/1965.pdf) | [1966](./pdf_file/1966.pdf) | [1967](./pdf_file/1967.pdf) | [1968](./pdf_file/1968.pdf) | [1969](./pdf_file/1969.pdf) |
-| [1970](./pdf_file/1970.pdf) | [1971](./pdf_file/1971.pdf) | [1972](./pdf_file/1972.pdf) | [1973](./pdf_file/1973.pdf) | [1974](./pdf_file/1974.pdf) | [1975](./pdf_file/1975.pdf) | [1976](./pdf_file/1976.pdf) | [1977](./pdf_file/1977.pdf) | [1978](./pdf_file/1978.pdf) | [1979](./pdf_file/1979.pdf) |
-| [1980](./pdf_file/1980.pdf) | [1981](./pdf_file/1981.pdf) | [1982](./pdf_file/1982.pdf) | [1983](./pdf_file/1983.pdf) | [1984](./pdf_file/1984.pdf) | [1985](./pdf_file/1985.pdf) | [1986](./pdf_file/1986.pdf) | [1987](./pdf_file/1987.pdf) | [1988](./pdf_file/1988.pdf) | [1989](./pdf_file/1989.pdf) |
-| [1990](./pdf_file/1990.pdf) | [1991](./pdf_file/1991.pdf) | [1992](./pdf_file/1992.pdf) | [1993](./pdf_file/1993.pdf) | [1994](./pdf_file/1994.pdf) | [1995](./pdf_file/1995.pdf) | [1996](./pdf_file/1996.pdf) | [1997](./pdf_file/1997.pdf) | [1998](./pdf_file/1998.pdf) | [1999](./pdf_file/1999.pdf) |
-| [2000](./pdf_file/2000.pdf) | [2001](./pdf_file/2001.pdf) | [2002](./pdf_file/2002.pdf) | [2003](./pdf_file/2003.pdf) | [2004](./pdf_file/2004.pdf) | [2005](./pdf_file/2005.pdf) | [2006](./pdf_file/2006.pdf) | [2007](./pdf_file/2007.pdf) | [2008](./pdf_file/2008.pdf) | [2009](./pdf_file/2009.pdf) |
-| [2010](./pdf_file/2010.pdf) | [2011](./pdf_file/2011.pdf) | [2012](./pdf_file/2012.pdf) | [2013](./pdf_file/2013.pdf) | [2014](./pdf_file/2014.pdf) | [2015](./pdf_file/2015.pdf) | [2016](./pdf_file/2016.pdf) | [2017](./pdf_file/2017.pdf) | [2018](./pdf_file/2018.pdf) | [2019](./pdf_file/2019.pdf) |
-| [2020](./pdf_file/2020.pdf) | [2021](./pdf_file/2021.pdf) | [2022](./pdf_file/2022.pdf) | [2023](./pdf_file/2023.pdf) | [2024](./pdf_file/2024.pdf) | [2025](./pdf_file/2025.pdf) | [2026](./pdf_file/2026.pdf) | [2027](./pdf_file/2027.pdf) | [2028](./pdf_file/2028.pdf) | [2029](./pdf_file/2029.pdf) |
-
+|[1890](./pdf_file/1890) | [1891](./pdf_file/1891) | [1892](./pdf_file/1892) | [1893](./pdf_file/1893) | [1894](./pdf_file/1894) | [1895](./pdf_file/1895) | [1896](./pdf_file/1896) | [1897](./pdf_file/1897) | [1898](./pdf_file/1898) | [1899](./pdf_file/1899) | 
+|[1900](./pdf_file/1900) | [1901](./pdf_file/1901) | [1902](./pdf_file/1902) | [1903](./pdf_file/1903) | [1904](./pdf_file/1904) | [1905](./pdf_file/1905) | [1906](./pdf_file/1906) | [1907](./pdf_file/1907) | [1908](./pdf_file/1908) | [1909](./pdf_file/1909) | 
+|[1910](./pdf_file/1910) | [1911](./pdf_file/1911) | [1912](./pdf_file/1912) | [1913](./pdf_file/1913) | [1914](./pdf_file/1914) | [1915](./pdf_file/1915) | [1916](./pdf_file/1916) | [1917](./pdf_file/1917) | [1918](./pdf_file/1918) | [1919](./pdf_file/1919) | 
+|[1920](./pdf_file/1920) | [1921](./pdf_file/1921) | [1922](./pdf_file/1922) | [1923](./pdf_file/1923) | [1924](./pdf_file/1924) | [1925](./pdf_file/1925) | [1926](./pdf_file/1926) | [1927](./pdf_file/1927) | [1928](./pdf_file/1928) | [1929](./pdf_file/1929) | 
+|[1930](./pdf_file/1930) | [1931](./pdf_file/1931) | [1932](./pdf_file/1932) | [1933](./pdf_file/1933) | [1934](./pdf_file/1934) | [1935](./pdf_file/1935) | [1936](./pdf_file/1936) | [1937](./pdf_file/1937) | [1938](./pdf_file/1938) | [1939](./pdf_file/1939) | 
+|[1940](./pdf_file/1940) | [1941](./pdf_file/1941) | [1942](./pdf_file/1942) | [1943](./pdf_file/1943) | [1944](./pdf_file/1944) | [1945](./pdf_file/1945) | [1946](./pdf_file/1946) | [1947](./pdf_file/1947) | [1948](./pdf_file/1948) | [1949](./pdf_file/1949) | 
+|[1950](./pdf_file/1950) | [1951](./pdf_file/1951) | [1952](./pdf_file/1952) | [1953](./pdf_file/1953) | [1954](./pdf_file/1954) | [1955](./pdf_file/1955) | [1956](./pdf_file/1956) | [1957](./pdf_file/1957) | [1958](./pdf_file/1958) | [1959](./pdf_file/1959) | 
+|[1960](./pdf_file/1960) | [1961](./pdf_file/1961) | [1962](./pdf_file/1962) | [1963](./pdf_file/1963) | [1964](./pdf_file/1964) | [1965](./pdf_file/1965) | [1966](./pdf_file/1966) | [1967](./pdf_file/1967) | [1968](./pdf_file/1968) | [1969](./pdf_file/1969) | 
+|[1970](./pdf_file/1970) | [1971](./pdf_file/1971) | [1972](./pdf_file/1972) | [1973](./pdf_file/1973) | [1974](./pdf_file/1974) | [1975](./pdf_file/1975) | [1976](./pdf_file/1976) | [1977](./pdf_file/1977) | [1978](./pdf_file/1978) | [1979](./pdf_file/1979) | 
+|[1980](./pdf_file/1980) | [1981](./pdf_file/1981) | [1982](./pdf_file/1982) | [1983](./pdf_file/1983) | [1984](./pdf_file/1984) | [1985](./pdf_file/1985) | [1986](./pdf_file/1986) | [1987](./pdf_file/1987) | [1988](./pdf_file/1988) | [1989](./pdf_file/1989) | 
+|[1990](./pdf_file/1990) | [1991](./pdf_file/1991) | [1992](./pdf_file/1992) | [1993](./pdf_file/1993) | [1994](./pdf_file/1994) | [1995](./pdf_file/1995) | [1996](./pdf_file/1996) | [1997](./pdf_file/1997) | [1998](./pdf_file/1998) | [1999](./pdf_file/1999) | 
+|[2000](./pdf_file/2000) | [2001](./pdf_file/2001) | [2002](./pdf_file/2002) | [2003](./pdf_file/2003) | [2004](./pdf_file/2004) | [2005](./pdf_file/2005) | [2006](./pdf_file/2006) | [2007](./pdf_file/2007) | [2008](./pdf_file/2008) | [2009](./pdf_file/2009) | 
+|[2010](./pdf_file/2010) | [2011](./pdf_file/2011) | [2012](./pdf_file/2012) | [2013](./pdf_file/2013) | [2014](./pdf_file/2014) | [2015](./pdf_file/2015) | [2016](./pdf_file/2016) | [2017](./pdf_file/2017) | [2018](./pdf_file/2018) | [2019](./pdf_file/2019) | 
+|[2020](./pdf_file/2020) | [2021](./pdf_file/2021) | [2022](./pdf_file/2022) | [2023](./pdf_file/2023) | [2024](./pdf_file/2024) | [2025](./pdf_file/2025) | [2026](./pdf_file/2026) | [2027](./pdf_file/2027) | [2028](./pdf_file/2028) | [2029](./pdf_file/2029) | 
 ## Notable Mentions
 
 General Elections Kenya Analysis and Shiny Dashboards
@@ -250,7 +249,7 @@ def print_decades(start_year, end_year):
     decade_end = min(decade_start + 9, end_year) 
     row_str = "|"
     for year in range(decade_start, decade_end + 1):
-      row_str += f"[{year}](./pdf_file/{year}.pdf) | " 
+      row_str += f"[{year}](./pdf_file/{year}) | " 
     print(row_str) 
 
 # Print the table of decades
