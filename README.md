@@ -2,6 +2,14 @@
 
 Text Data Analysis of kenya gazette
 
+## Notable Mentions
+
+General Elections Kenya Analysis and Shiny Dashboards
+
++ https://akhapwoyachris.shinyapps.io/presidentialelectionkenya2022/
++ https://christopherakhapwoya.shinyapps.io/electionkenya/
++ [Fiver Services](https://www.fiverr.com/s/jj5dYam)
+
 ## [Data Source Scripts](./R/updated_get_individual_links.R)
 
 R File: ./R/updated_get_individual_links.R Steps to download the files
