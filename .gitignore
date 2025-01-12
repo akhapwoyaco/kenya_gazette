@@ -5,6 +5,7 @@
 renv/
 #
 **/workspaces/
+
 pdf_file_text.txt
 **/data-raw/
 **/jpeg_files/
@@ -81,4 +82,4 @@ pdf_file_text.txt
 **/pdf_files/2021/
 **/pdf_files/2022/
 **/pdf_files/2023/
-**/pdf_files/2024/
+
