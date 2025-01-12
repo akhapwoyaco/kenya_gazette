@@ -2,8 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-.R
-**.R
 renv/
 #
 **/workspaces/

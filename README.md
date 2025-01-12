@@ -234,7 +234,7 @@ for (pdf_file_index in 1:len_list_of_files) {
 #
 ```
 
-## The Contents table generation
+## [The Contents table generation](./python)
 
 ```{python}
 def print_decades(start_year, end_year):
