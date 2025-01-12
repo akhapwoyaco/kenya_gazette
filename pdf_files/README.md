@@ -3,16 +3,7 @@
 Text Data Analysis of kenya gazette
 
 | Year | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|:--:|:--:|:---|:---|:---|:--:|:--:|:---|:---|:---|:---|:---|:---|
-| [1890](./1890/) | [Jan](./1890/Jan) | [Feb](./1890/Feb) | [Mar](./1890/Mar) | [Apr](./1890/Apr) | [May](./1890/May) | [Jun](./1890/Jun) | [Jul](./1890/Jul) | [Aug](./1890/Aug) | [Sep](./1890/Sep) | [Oct](./1890/Oct) | [Nov](./1890/Nov) | [Dec](./1890/Dec) |
-| [1891](./1891/) | [Jan](./1891/Jan) | [Feb](./1891/Feb) | [Mar](./1891/Mar) | [Apr](./1891/Apr) | [May](./1891/May) | [Jun](./1891/Jun) | [Jul](./1891/Jul) | [Aug](./1891/Aug) | [Sep](./1891/Sep) | [Oct](./1891/Oct) | [Nov](./1891/Nov) | [Dec](./1891/Dec) |
-| [1892](./1892/) | [Jan](./1892/Jan) | [Feb](./1892/Feb) | [Mar](./1892/Mar) | [Apr](./1892/Apr) | [May](./1892/May) | [Jun](./1892/Jun) | [Jul](./1892/Jul) | [Aug](./1892/Aug) | [Sep](./1892/Sep) | [Oct](./1892/Oct) | [Nov](./1892/Nov) | [Dec](./1892/Dec) |
-| [1893](./1893/) | [Jan](./1893/Jan) | [Feb](./1893/Feb) | [Mar](./1893/Mar) | [Apr](./1893/Apr) | [May](./1893/May) | [Jun](./1893/Jun) | [Jul](./1893/Jul) | [Aug](./1893/Aug) | [Sep](./1893/Sep) | [Oct](./1893/Oct) | [Nov](./1893/Nov) | [Dec](./1893/Dec) |
-| [1894](./1894/) | [Jan](./1894/Jan) | [Feb](./1894/Feb) | [Mar](./1894/Mar) | [Apr](./1894/Apr) | [May](./1894/May) | [Jun](./1894/Jun) | [Jul](./1894/Jul) | [Aug](./1894/Aug) | [Sep](./1894/Sep) | [Oct](./1894/Oct) | [Nov](./1894/Nov) | [Dec](./1894/Dec) |
-| [1895](./1895/) | [Jan](./1895/Jan) | [Feb](./1895/Feb) | [Mar](./1895/Mar) | [Apr](./1895/Apr) | [May](./1895/May) | [Jun](./1895/Jun) | [Jul](./1895/Jul) | [Aug](./1895/Aug) | [Sep](./1895/Sep) | [Oct](./1895/Oct) | [Nov](./1895/Nov) | [Dec](./1895/Dec) |
-| [1896](./1896/) | [Jan](./1896/Jan) | [Feb](./1896/Feb) | [Mar](./1896/Mar) | [Apr](./1896/Apr) | [May](./1896/May) | [Jun](./1896/Jun) | [Jul](./1896/Jul) | [Aug](./1896/Aug) | [Sep](./1896/Sep) | [Oct](./1896/Oct) | [Nov](./1896/Nov) | [Dec](./1896/Dec) |
-| [1897](./1897/) | [Jan](./1897/Jan) | [Feb](./1897/Feb) | [Mar](./1897/Mar) | [Apr](./1897/Apr) | [May](./1897/May) | [Jun](./1897/Jun) | [Jul](./1897/Jul) | [Aug](./1897/Aug) | [Sep](./1897/Sep) | [Oct](./1897/Oct) | [Nov](./1897/Nov) | [Dec](./1897/Dec) |
-| [1898](./1898/) | [Jan](./1898/Jan) | [Feb](./1898/Feb) | [Mar](./1898/Mar) | [Apr](./1898/Apr) | [May](./1898/May) | [Jun](./1898/Jun) | [Jul](./1898/Jul) | [Aug](./1898/Aug) | [Sep](./1898/Sep) | [Oct](./1898/Oct) | [Nov](./1898/Nov) | [Dec](./1898/Dec) |
+|:----:|:----:|:-----|:-----|:-----|:----:|:----:|:-----|:-----|:-----|:-----|:-----|:-----|
 | [1899](./1899/) | [Jan](./1899/Jan) | [Feb](./1899/Feb) | [Mar](./1899/Mar) | [Apr](./1899/Apr) | [May](./1899/May) | [Jun](./1899/Jun) | [Jul](./1899/Jul) | [Aug](./1899/Aug) | [Sep](./1899/Sep) | [Oct](./1899/Oct) | [Nov](./1899/Nov) | [Dec](./1899/Dec) |
 | [1900](./1900/) | [Jan](./1900/Jan) | [Feb](./1900/Feb) | [Mar](./1900/Mar) | [Apr](./1900/Apr) | [May](./1900/May) | [Jun](./1900/Jun) | [Jul](./1900/Jul) | [Aug](./1900/Aug) | [Sep](./1900/Sep) | [Oct](./1900/Oct) | [Nov](./1900/Nov) | [Dec](./1900/Dec) |
 | [1901](./1901/) | [Jan](./1901/Jan) | [Feb](./1901/Feb) | [Mar](./1901/Mar) | [Apr](./1901/Apr) | [May](./1901/May) | [Jun](./1901/Jun) | [Jul](./1901/Jul) | [Aug](./1901/Aug) | [Sep](./1901/Sep) | [Oct](./1901/Oct) | [Nov](./1901/Nov) | [Dec](./1901/Dec) |
@@ -161,5 +152,5 @@ def print_year_month_table(start_year, end_year):
     print(row)
 
 # Print the table of years and months
-print_year_month_table(1890, 2025)
+print_year_month_table(1899, 2025)
 ```
