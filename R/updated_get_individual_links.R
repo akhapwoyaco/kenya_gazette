@@ -76,7 +76,7 @@ make_path <- function(path){
 # download files
 length_files = length(links_df_2$links2)
 incompletes_files = data.frame()
-for (url_index in 1:length_files) {
+for (url_index in 4419:length_files) {
   print(url_index)
   url_str <- links_df_2$links2[url_index]
   dest <- links_df_2$path[url_index]
@@ -93,30 +93,30 @@ for (url_index in 1:length_files) {
       error = function(e) {print('broken')}
     )
   } else {
-    # expected_file_size <- httr::HEAD(url_str)$headers$`content-length`
-    # dest_files_size = file.size(dest)
-    # if (expected_file_size != dest_files_size){
-    #   incompletes_files = bind_rows(  
-    #     incompletes_files,
-    #     bind_cols(
-    #       links_df[url_index,], data.frame(destination = dest)
-    #       )
-    #   )
-    #   print(paste("INCOMPLETE: Downloading again", dest, sep = " "))
-    #   #
-    #   tryCatch(
-    #     download.file(
-    #       url = url_str,
-    #       destfile = dest,
-    #       quiet = F, mode = 'wb'),
-    #     error = function(e) {print('broken')}
-    #   )
-    # 
-    # } 
-    # else {
+    expected_file_size <- httr::HEAD(url_str)$headers$`content-length`
+    dest_files_size = file.size(dest)
+    if (expected_file_size != dest_files_size){
+      incompletes_files = bind_rows(
+        incompletes_files,
+        bind_cols(
+          links_df[url_index,], data.frame(destination = dest)
+          )
+      )
+      print(paste("INCOMPLETE: Downloading again", dest, sep = " "))
+      #
+      tryCatch(
+        download.file(
+          url = url_str,
+          destfile = dest,
+          quiet = F, mode = 'wb'),
+        error = function(e) {print('broken')}
+      )
+
+    }
+    else {
       print(url_index)
       next
-    # }
+    }
   }
 }
 # 4231 Kenya Gazette Vol. XC-No. 19
