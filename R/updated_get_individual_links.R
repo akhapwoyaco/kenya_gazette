@@ -76,7 +76,7 @@ make_path <- function(path){
 # download files
 length_files = length(links_df_2$links2)
 incompletes_files = data.frame()
-for (url_index in 4419:length_files) {
+for (url_index in 4419:length_files) { #4418
   print(url_index)
   url_str <- links_df_2$links2[url_index]
   dest <- links_df_2$path[url_index]
