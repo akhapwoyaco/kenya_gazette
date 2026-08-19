@@ -12,4 +12,8 @@ pdf_file_text.txt
 **/.ipynb_checkpoints/
 #
 **/pdf_files/1964/Jan/Kenya_Gazette_Vol_LXVINo_1.pdf
-
+data-raw/
+download_log_20260729_193148.log
+download_gazette.py
+download_report_20260729_193257.csv
+download_log_20260729_193257.log

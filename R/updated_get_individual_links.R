@@ -138,3 +138,42 @@ save.image(
   )
 )
 #
+
+#' Save links_df_2 to a dated folder as CSV and RDS
+#'
+#' Creates a folder under ./data-raw named after today's date (punctuation
+#' replaced with underscores), then writes links_df_2 into that folder
+#' twice: once as .csv (human-readable, easy to inspect/share) and once as
+#' .rds (preserves R data types exactly, e.g. Date columns, factors, lists).
+#' Both filenames are stamped with the current date-time so repeated runs
+#' on the same day don't overwrite each other.
+
+# --- Build folder path -------------------------------------------------
+
+# Today's date, e.g. "2026-07-29" -> "2026_07_29"
+# date_append <- gsub(pattern = "[[:punct:]]", replacement = '_', x = Sys.Date())
+
+# Target folder: ./data-raw/2026_07_29
+out_dir <- paste('./data-raw', date_append, sep = '/')
+
+# Create the folder (and any missing parent dirs).
+# showWarnings = FALSE avoids an error/warning if it already exists.
+dir.create(out_dir, recursive = TRUE, showWarnings = TRUE)
+
+# --- Build timestamp for filenames --------------------------------------
+# Current date + time, e.g. "2026-07-29 14:32:10" -> "2026_07_29_14_32_10"
+# (the |\\s+ part also replaces the space between date and time)
+datetime_append <- gsub(pattern = "[[:punct:]]|\\s+", replacement = '_', x = Sys.time())
+
+# --- Save as CSV ---------------------------------------------------------
+# row.names = FALSE avoids writing an extra unnamed index column
+out_file_csv <- file.path(out_dir, paste0('links_df_2_', datetime_append, '.csv'))
+write.csv(links_df_2, out_file_csv, row.names = FALSE)
+
+# --- Save as RDS -----------------------------------------------------------
+# Keeps exact R types (Date, factor, list-columns, etc.) that CSV would flatten
+out_file_rds <- file.path(out_dir, paste0('links_df_2_', datetime_append, '.rds'))
+saveRDS(links_df_2, out_file_rds)
+
+# --- (optional) confirm where files went ---------------------------------
+# cat("Saved:\n -", out_file_csv, "\n -", out_file_rds, "\n")
